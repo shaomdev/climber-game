@@ -1,3 +1,3 @@
 # climber-game
 
-> Demo - https://omarovfrontend.github.io/climber-game/
+> Demo - https://shaomdev.github.io/climber-game/
